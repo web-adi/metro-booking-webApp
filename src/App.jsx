@@ -9,7 +9,7 @@ function App() {
   return (
     <>
      <h1>
-      hello this is for testing purpose
+      hello hello i am Adi
      </h1>
     </>
   )
